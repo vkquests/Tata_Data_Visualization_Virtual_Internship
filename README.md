@@ -33,7 +33,7 @@ Used the cleaned data to create the visuals around four of the questions that th
 
 **Question 2**  
   The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
-![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/f9d945bc-1984-4cdd-94b2-34b72d77bc48)
+![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/8aca1fb3-aa1c-4009-bf75-c52a758a26c4)
 
 **Question 3**  
   The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue-generating customer at the start and gradually declines to the lower revenue-generating customers. The CMO wants to target the higher revenue-generating customers and ensure that they remain satisfied with their products.
