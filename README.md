@@ -17,7 +17,7 @@ The impact visualization plays in
 -	Finding outliers in the data
 -	Helping business leaders to make an accurate decision
 -	Helps us to understand how the data is distributed over time. 
-![Tata_Task2](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/dd328a09-4dc2-44af-9155-f6637e21b87a)
+![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/821e31d2-c13f-40a6-b4f7-2e19a567fa0a)
 
 ## Task 3: Creating Effective Visuals
 Data contained some returns to the store which were provided in negative quantities and there were unit prices which were input in error.
@@ -29,19 +29,19 @@ Used the cleaned data to create the visuals around four of the questions that th
 
 **Question 1**  
   The CEO of the retail store is interested in viewing the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
-![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/600c56d1-199e-4360-80cb-b4f8fb3c1bc8)
+![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/187005d0-cefc-4810-8e14-a91b94acf346)
 
 **Question 2**  
   The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
-![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/b191885a-08b5-4667-92fc-97ea215f6a73)
+![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/f9d945bc-1984-4cdd-94b2-34b72d77bc48)
 
 **Question 3**  
   The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue-generating customer at the start and gradually declines to the lower revenue-generating customers. The CMO wants to target the higher revenue-generating customers and ensure that they remain satisfied with their products.
-![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/a376bc65-0adf-48c0-b29e-3f243ca98967)
+![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/46776b47-78eb-4e31-b77d-789ce5c540f6)
 
 **Question 4**  
   The CEO is looking to gain insights into the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
-![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/07553565-ddb7-454c-9c19-c112b5033550)
+![image](https://github.com/vkquests/Tata_Data_Visualization_Virtual_Internship/assets/126692346/ef773d2d-ba4a-4acb-85fc-6e5f1c4e6e6b)
 
 ## Task 4: Communicating Insights and Analysis
 Effectively communicated the findings and explained how they relate to each scenario.
